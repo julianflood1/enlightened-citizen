@@ -9,14 +9,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## To open project
 
-Navigate to https://github.com/julianflood1
-Clone the repository in terminal
-Run `npm install` 
-Run `bower install` 
-Run `npm install` 
-Run `ng build` 
-Run `ng serve`
-Navigate to `localhost:4200` in your browser
++ Navigate to https://github.com/julianflood1
++ Clone the repository in terminal
++ Run `npm install` 
++ Run `bower install` 
++ Run `npm install` 
++ Run `ng build` 
++ Run `ng serve`
++ Navigate to `localhost:4200` in your browser
 
 
 ## Running end-to-end tests
